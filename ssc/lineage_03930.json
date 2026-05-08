@@ -1,0 +1,1 @@
+{"lineage_id":"lineage_03930","display_name":"1_detection_test","rule_canonical":"detections/endpoint/1_detection_test.yml","repo":"ssc","versions":[{"vi":1,"date":"2024-03-07T19:28:07Z","hash":"4399ba7f","subject":"testing one more","detection":"| `1_detection_test_filter`","spl":"| MACRO=1_detection_test_filter","delta":0.0}]}
